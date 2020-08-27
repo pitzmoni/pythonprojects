@@ -8,6 +8,7 @@ My study projects for learning Data Science with Python:
 - Advanced machine learning techniques for predicting house prices
 - Real Or Not: Natural Language Processing of Tweets
 - E-Commerce analyzis with PySpark
+- SQLite exercises: analyzing salaries in San Francisco
 
 Several projects are not completely finished yet, any comments are welcome.
 
